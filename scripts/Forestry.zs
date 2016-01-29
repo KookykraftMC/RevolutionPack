@@ -16,7 +16,7 @@ recipes.addShaped(<Forestry:stamps:1> * 9,
 print("Added 1n stamps from iron nuggets paper and wax");
 
 //Felt like this was needed - TimeTheCat
-recipes.addShapped(<gendustry:IndustrialApiary> * 1, 
+recipes.addShaped(<gendustry:IndustrialApiary> * 1, 
         [[<ore:gearBronze>, <gendustry:BeeReceptacle>, <ore:gearBronze>],
         [<ore:blockGlass>, <Forestry:apiculture>, <ore:blockGlass>],
         [<ore:gearBronze>, <gendustry:BeeReceptacle>, <ore:gearBronze>]]);
