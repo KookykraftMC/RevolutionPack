@@ -19,8 +19,11 @@
   },
   "general": {
     "blocked_entities": [],
+    "disable_chunkloading": false,
     "restart_timer": 0.0,
     "safe_spawn": false,
+    "server_info_difficulty": true,
+    "server_info_mode": true,
     "sign_home": true,
     "sign_warp": true,
     "spawn_area_in_sp": false,
